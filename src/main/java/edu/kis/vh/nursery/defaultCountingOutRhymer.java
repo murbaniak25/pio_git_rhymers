@@ -38,8 +38,4 @@ public class DefaultCountingOutRhymer {
     public int[] getNUMBERS() {
         return NUMBERS;
     }
-
-    public void setNUMBERS(int[] NUMBERS) {
-        this.NUMBERS = NUMBERS;
-    }
 }
